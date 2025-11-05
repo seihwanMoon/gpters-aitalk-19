@@ -1,0 +1,31 @@
+# Obsidian-specific files
+.obsidian/cache/
+.obsidian/sync.json
+
+# Environment variables and local config
+.env
+.env.local
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# IDEs
+.vscode/settings.json
+.idea/
+*.swp
+*.swo
+*~
+
+# Node modules and package manager
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Temporary and build files
+*.tmp
+dist/
+build/

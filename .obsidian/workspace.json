@@ -1,0 +1,155 @@
+{
+  "main": {
+    "id": "bd766dc1f92af694",
+    "type": "split",
+    "children": [
+      {
+        "id": "1feb610b2c313184",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "17ab5f85b1c15198",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3.쓰레드_포스팅/20_Published/Pub Hover Editor 플러그인 가이드.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Pub Hover Editor 플러그인 가이드"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c7e6193bc91d8e4a",
+    "type": "split",
+    "children": [
+      {
+        "id": "a5c10f0a7eea7959",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "badda8679511aaf4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "파일 탐색기"
+            }
+          },
+          {
+            "id": "3be9786cc786cde1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "검색"
+            }
+          },
+          {
+            "id": "b7c6097213e99e79",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "북마크"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "0de02435fb76e84e",
+    "type": "split",
+    "children": [],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:빠른 전환기 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 일일 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false,
+      "bases:새 베이스 생성하기": false,
+      "terminal:Open terminal": false,
+      "open-vscode:VSCode": false,
+      "marp-slides:Show Slide Preview": false
+    }
+  },
+  "active": "17ab5f85b1c15198",
+  "lastOpenFiles": [
+    "2.전자책_프로젝트/2.3_전자책 발간/최종_출판_준비_보고서.md",
+    "2.전자책_프로젝트/2.3_전자책 발간/최종_출판_준비_보고서.md.tmp.16452.1762337557264",
+    "2.전자책_프로젝트/2.3_전자책 발간/출판준비_완료_체크리스트.md",
+    "2.전자책_프로젝트/2.3_전자책 발간/출판준비_완료_체크리스트.md.tmp.16452.1762337485901",
+    "3.쓰레드_포스팅/20_Published/250105_Obsidian_사이드프로젝트_웨비나.md",
+    "4.slide/html-slide-generator.md",
+    "2.전자책_프로젝트/2.3_전자책 발간/플랫폼별_배포_전략.md",
+    "2.전자책_프로젝트/2.3_전자책 발간/플랫폼별_배포_전략.md.tmp.16452.1762337417870",
+    "2.전자책_프로젝트/2.3_전자책 발간/251105_화상영어교사_AI시대의_성찰.md",
+    "2.전자책_프로젝트/2.3_전자책 발간/251105_화상영어교사_AI시대의_성찰.md.tmp.16452.1762337346387",
+    "2.전자책_프로젝트/2.3_전자책 발간/무제.md",
+    "2.전자책_프로젝트/2.3_전자책 발간",
+    "4.slide/presentation.html",
+    "4.slide/presentation.html.tmp.10328.1762334046850",
+    "3.쓰레드_포스팅/00_Inbox/AI 토크 - Obsidian 으로 A to Z.md",
+    "3.쓰레드_포스팅/20_Published/251105_AI학습파트너_보고서압축.md",
+    "3.쓰레드_포스팅/20_Published/251105_AI학습파트너_보고서압축.md.tmp.30568.1762333742472",
+    "2.전자책_프로젝트/2.2_요약_인사이트_에피소드/251101_도시가스_안전기획_사무직_요약.md",
+    "3.쓰레드_포스팅/20_Published/250105_Obsidian_사이드프로젝트_웨비나.md.tmp.30568.1762333501893",
+    "3.쓰레드_포스팅/10_Drafts/Sample Draft.md",
+    "3.쓰레드_포스팅/20_Published/250105_Obsidian_사이드프로젝트_웨비나.md.tmp.30568.1762333300960",
+    "3.쓰레드_포스팅/10_Drafts/251101_도시가스 안전기획 사무직_draft_장문.md",
+    "3.쓰레드_포스팅/10_Drafts/AI_토크_Obsidian_스터디_홍보_edit1st.md",
+    "2.전자책_프로젝트/2.3_전자책 초안/무제.md",
+    "2.전자책_프로젝트/2.2_요약_인사이트_에피소드/251101_요약_도시가스 안전기획 사무직.md",
+    "2.전자책_프로젝트/2.2_요약_인사이트_에피소드/251103_요약_도시가스 안전관리 기획자.md",
+    "2.전자책_프로젝트/2.2_요약_인사이트_에피소드/251102_요약_화상영어교사.md",
+    "2.전자책_프로젝트/2.1_원본/251101_도시가스 안전기획 사무직.md",
+    "CLAUDE.md",
+    "CLAUDE_소개.md",
+    "2.전자책_프로젝트/2.4_전자책_발간/무제.md",
+    "3.쓰레드_포스팅/20_Published/Pub Hover Editor 플러그인 가이드.md",
+    "2.전자책_프로젝트/_workflow/2. workflow.md",
+    "4.slide/_workflow.md",
+    "슬라이드.md",
+    "1200 미팅.md",
+    "Attach/Pasted image 20251101122314.png",
+    "Attach/Pasted image 20251101122213.png",
+    "Attach/Pasted image 20251101121947.png",
+    "Attach/Pasted image 20251101103631.png",
+    "Attach/Pasted image 20250924183728.png",
+    "Attach/Pasted image 20250924183644.png",
+    "Attach/Pasted image 20250924183532.png",
+    "Attach/Pasted image 20250924183447.png",
+    "Attach/Pasted image 20250924183405.png",
+    "Attach/Pasted image 20250924183337.png"
+  ]
+}
