@@ -29,3 +29,9 @@ yarn-error.log
 *.tmp
 dist/
 build/
+
+# Prevent accidental credential commits
+.obsidian/plugins/share-note/data.json
+.env.*
+!.env.example
+**/.streamlit/secrets.toml
